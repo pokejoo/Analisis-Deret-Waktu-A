@@ -1,4 +1,5 @@
-# Johanes Efata Putra Diaz Prasetiyo (24083010016) — Forecasting PDB Industri Makanan dan Minuman Indonesia
+# Forecasting PDB Industri Makanan dan Minuman Indonesia
+# Johanes Efata Putra Diaz Prasetiyo (24083010016)
 
 Proyek ini merupakan bagian dari tugas Ujian Akhir Semester (UAS) mata kuliah Analisis Data Waktu (ADW).
 
