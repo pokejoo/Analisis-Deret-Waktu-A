@@ -45,10 +45,6 @@ Kedua metode dibandingkan menggunakan ukuran akurasi RMSE, MAE, MAPE, dan sMAPE 
 2. Data Preprocessing
 3. Exploratory Data Analysis (EDA)
 4. Stationarity Analysis
-5. RegARIMA Modeling
-6. Holt-Winters Modeling
-7. Model Evaluation
-8. Forecasting and Comparison
 
 ## 5. Struktur Repository
 
